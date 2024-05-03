@@ -35,7 +35,7 @@ cd Color-Detection-Opencv
 ## Run the file
 
 ``` bash
-python color_detection.py
+python color_detection.ipynb
 ```
 
 ## Example
